@@ -1,0 +1,11 @@
+#world {
+    position: relative;
+    height: 100%;
+    width: 100%;
+
+    background-image: linear-gradient(black 1px, transparent 1px), linear-gradient(90deg,black 1px, transparent 1px);
+    background-size: 50px 50px;
+
+    
+    background-size: 50px 50px;
+}
